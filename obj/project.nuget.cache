@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oy3H2yLVTzFnALWz0hUw5YvzGS7o9mlMuWkXBJ/1ww8L9x+f32y5cv5P8DfJPmssCG5XlIubbkxw8G8J8NQdUw==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\VisualStudio_projects\\DevOps_ukol\\DevOps_ukol\\DevOps_ukol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomáš\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\bin\Debug\net6.0\DevOps_ukol.exe
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\bin\Debug\net6.0\DevOps_ukol.deps.json
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\bin\Debug\net6.0\DevOps_ukol.runtimeconfig.json
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\bin\Debug\net6.0\DevOps_ukol.dll
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\bin\Debug\net6.0\ref\DevOps_ukol.dll
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\bin\Debug\net6.0\DevOps_ukol.pdb
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\obj\Debug\net6.0\DevOps_ukol.csproj.AssemblyReference.cache
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\obj\Debug\net6.0\DevOps_ukol.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\obj\Debug\net6.0\DevOps_ukol.AssemblyInfoInputs.cache
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\obj\Debug\net6.0\DevOps_ukol.AssemblyInfo.cs
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\obj\Debug\net6.0\DevOps_ukol.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\obj\Debug\net6.0\DevOps_ukol.dll
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\obj\Debug\net6.0\ref\DevOps_ukol.dll
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\obj\Debug\net6.0\DevOps_ukol.pdb
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\obj\Debug\net6.0\DevOps_ukol.genruntimeconfig.cache
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\PROGRAMMING\VisualStudio_projects\DevOps_ukol\DevOps_ukol\obj\Debug\net6.0\DevOps_ukol.csproj.CopyComplete
